@@ -2,10 +2,10 @@
 name = "overdsh/dash-framework"
 description = "A simple framework inspired by Knit."
 
-license = "GPL-3.0" 
+license = "MIT" 
 authors = ["OverDsh"]
 
-version = "0.0.2"
+version = "0.0.6"
 
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
